@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="cdixsonlambdata", 
-    version="1.0",
+    version="1.1",
     author="C Dixson",
     author_email="crystal.dixson@gmail.com",
     description="A small example package",
